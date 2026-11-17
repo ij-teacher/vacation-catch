@@ -4,3 +4,4 @@
 
 #basket{width:54px;font-size:36px;border-bottom-width:3px;border-radius:12px}
 #overlay #start{font-size:16px}#overlay:has(#start) p{font-size:13px;line-height:1.5}
+.intro h1{font-size:clamp(28px,3.5vw,42px);line-height:1.12;margin:12px 0}
